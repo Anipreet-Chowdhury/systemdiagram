@@ -1,0 +1,3 @@
+[submodule "frontend/interactive-diagram"]
+	path = frontend/interactive-diagram
+	url = https://github.com/Anipreet-Chowdhury/interactive-diagram.git
